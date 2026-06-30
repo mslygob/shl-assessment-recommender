@@ -1,0 +1,6 @@
+{
+  "name": "SHL Assessment Recommender",
+  "description": "An intelligent conversational recommender for the SHL pre-employment assessment catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
